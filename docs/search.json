@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Meine Poplication über Louver",
     "section": "",
-    "text": "Title:\nAuthor: Ahmad Aroud\nORCID: https://orcid.org/0009-0000-3344-9566\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7875479\nRepository URL: https://github.com/AhmadAroud/catalogue-003"
+    "text": "Title: Poplication über Louver\nAuthor: Ahmad Aroud\nORCID: https://orcid.org/0009-0000-3344-9566\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7875479\nRepository URL: https://github.com/AhmadAroud/catalogue-003"
   },
   {
     "objectID": "index.html#based-on-baroque-ai-publication-prototype",
@@ -39,6 +39,6 @@
     "href": "paintings.html",
     "title": "Activity: Paintings catalogue in Jupyter Notebook",
     "section": "",
-    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nTitle: Saint Catherine Disputing and Two Donors\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Legend of Cloelia\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Man of Sorrows\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Translation of the Holy House of Loreto\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Circumcision\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: Scenes from the Story of the Argonauts\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Serenade\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Baker’s Cart\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Reader\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain"
+    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nTitle: Annunciation Triptych (Merode Altarpiece)\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Mérode Altarpiece (The Annunciation Triptych)\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Fortune Teller\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: La Diseuse de bonne aventure\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: Young Woman with a Water Pitcher\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: Allegory of the Catholic Faith\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Crucifixion; The Last Judgment\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Musicians\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: Slapend meisje\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain"
   }
 ]
