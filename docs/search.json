@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Baroque AI: Publication Prototype",
+    "title": "Meine Poplication über Louver",
     "section": "",
     "text": "Title:\nAuthor: Ahmad Aroud\nORCID: https://orcid.org/0009-0000-3344-9566\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7875479\nRepository URL: https://github.com/AhmadAroud/catalogue-003"
   },
   {
     "objectID": "index.html#based-on-baroque-ai-publication-prototype",
     "href": "index.html#based-on-baroque-ai-publication-prototype",
-    "title": "Baroque AI: Publication Prototype",
+    "title": "Meine Poplication über Louver",
     "section": "Based on Baroque AI: Publication Prototype",
     "text": "Based on Baroque AI: Publication Prototype"
   },
   {
     "objectID": "index.html#part-of-the-series-baroque-toc",
     "href": "index.html#part-of-the-series-baroque-toc",
-    "title": "Baroque AI: Publication Prototype",
+    "title": "Meine Poplication über Louver",
     "section": "Part of the series: Baroque TOC",
     "text": "Part of the series: Baroque TOC\nProgramme instructions\n2023-03-17\n This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\nBook cover: Reworking of Baroque pearl with enamelled gold mounts set with rubies. Creative Commons CC0 1.0 Universal Public Domain Dedication. This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   },
@@ -39,6 +39,6 @@
     "href": "paintings.html",
     "title": "Activity: Paintings catalogue in Jupyter Notebook",
     "section": "",
-    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nTitle: Portrait of a Man, Possibly Nicolaes Pietersz Duyst van Voorhout (born about 1600, died 1650)\n\nTitle: Portret van een onbekende man\n\nTitle: Petrus Scriverius (1576–1660)\n\nTitle: Anna van der Aar (born 1576/77, died after 1626)\n\nTitle: Portrait of a Woman\n\nTitle: Portrait of a Man\n\nTitle: Wolf and Fox Hunt\n\nTitle: The Visit\n\nTitle: Portrait of a Man Holding Gloves"
+    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nTitle: Saint Catherine Disputing and Two Donors\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Legend of Cloelia\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Man of Sorrows\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Translation of the Holy House of Loreto\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Circumcision\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: Scenes from the Story of the Argonauts\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Serenade\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Baker’s Cart\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain\n\nTitle: The Reader\nCopyright: http://www.wikidata.org/entity/Q19652\nCopyrightL: public domain"
   }
 ]
