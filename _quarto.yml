@@ -5,7 +5,7 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Meine Poplication über Louver"
+  title: "Museum of Ancient Cultures, University Tübingen"
   author: "Ahmad Aroud"
   date: "2023-04-28"
   # this section determines which files will be added to the book as chapters
@@ -13,6 +13,7 @@ book:
     - index.qmd
     - colophon.ipynb
     - collection003.qmd
+    - collection.qmd
     - paintings.ipynb
     #- video.ipynb
     #- sw-collection.ipynb
